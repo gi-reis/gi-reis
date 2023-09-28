@@ -1,4 +1,4 @@
-## bem-vindo(a) ao meu perfil 😺
+## seja bem-vindo(a) ao meu perfil 😺
 
  <div>
    <a href="https://github.com/gi-reis">
