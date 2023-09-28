@@ -1,4 +1,4 @@
-## bem-vindo(a) ao meu perfil 😁
+## bem-vindo(a) ao meu perfil 😺
 
  <div>
    <a href="https://github.com/gi-reis">
@@ -14,7 +14,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### me encontre em:
  
 <div> 
   <a href="https://instagram.com/gi.reiz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
